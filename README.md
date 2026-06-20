@@ -1,4 +1,4 @@
-# Aurella — Contracts
+# Aurella — Contract
 
 Minimal Soroban (Stellar) smart contract starter for the Fashion Hub project.
 A simple counter contract to prove the toolchain works — extend it with real
