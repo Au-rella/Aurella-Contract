@@ -5,8 +5,8 @@ A simple counter contract to prove the toolchain works — extend it with real
 on-chain logic (e.g. product authenticity, ownership records) via open issues.
 
 Pairs with:
-- [fashion-hub-frontend](../fashion-hub-frontend)
-- [fashion-hub-backend](../fashion-hub-backend)
+- [Aurella](../fashion-hub-frontend)
+- [Aurella](../fashion-hub-backend)
 
 ## Prerequisites
 
